@@ -1,0 +1,38 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Title: E-commerce Reporting Automation - Sales, Refunds, Profit & Inventory
+
+Business need:
+The client operates multiple online stores and currently combines order, product-cost,
+refund, and inventory data manually in spreadsheets.
+
+They need a reusable Python workflow that creates one management report.
+
+Inputs:
+- orders.csv
+- products.csv
+- refunds.csv
+
+Requirements:
+1. Load all three input files.
+2. Validate required columns.
+3. Join orders with product information.
+4. Match refunds back to orders.
+5. Calculate:
+   - Gross Sales
+   - Net Sales
+   - COGS
+   - Profit
+6. Summarize performance by store and product.
+7. Flag products at or below reorder level.
+8. Generate an Excel workbook with:
+   - Dashboard
+   - Orders_Enriched
+   - Product_Performance
+   - Inventory_Alerts
+   - Run_Log
+9. The workflow must be reusable when new exports are placed in the input folder.
+
+Portfolio note:
+This is a simulated project inspired by real freelance requests for e-commerce
+reporting automation, multi-source data consolidation, profit tracking, and inventory reporting.

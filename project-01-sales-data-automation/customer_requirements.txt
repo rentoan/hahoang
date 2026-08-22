@@ -1,0 +1,27 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Project: Sales Data Cleaning & Excel Report Automation
+
+The client receives monthly sales CSV files from multiple branches and needs a reusable Python solution.
+
+Requirements:
+1. Read all CSV files from an input folder.
+2. Combine all sales records.
+3. Standardize inconsistent date formats.
+4. Clean text, quantity, price, and discount fields.
+5. Detect duplicate OrderIDs.
+6. Detect missing or invalid values.
+7. Calculate Revenue = Quantity * UnitPrice * (1 - Discount).
+8. Generate an Excel report with:
+   - Clean_Data
+   - Errors
+   - Summary
+
+Deliverables:
+- Python source code
+- requirements.txt
+- README
+- sample input
+- sample Excel output
+
+Note: This is a simulated client requirement created for portfolio demonstration.

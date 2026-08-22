@@ -1,0 +1,7 @@
+﻿SKU,ProductName,Category,UnitCost,CurrentStock,ReorderLevel
+SKU001,Wireless Mouse,Accessories,9.5,42,20
+SKU002,Mechanical Keyboard,Accessories,24.0,12,15
+SKU003,USB-C Hub,Accessories,15.25,8,12
+SKU004,Laptop Stand,Office,11.8,35,10
+SKU005,HD Webcam,Electronics,20.0,6,10
+SKU006,Desk Lamp,Office,14.4,28,8

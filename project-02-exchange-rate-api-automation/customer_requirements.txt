@@ -1,0 +1,23 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Title: Python API Data Extraction & Excel Reporting Automation
+
+Business need:
+The client currently checks exchange-rate data manually and copies values into spreadsheets.
+They need a reusable Python script that retrieves historical rates from an API and generates clean reporting files.
+
+Requirements:
+1. Connect to a public REST API.
+2. Retrieve historical exchange rates for a configurable date range.
+3. Use USD as the base currency.
+4. Retrieve EUR, GBP, JPY and VND.
+5. Handle connection errors, timeouts, HTTP errors, invalid JSON and empty data.
+6. Validate returned records.
+7. Export a clean CSV file.
+8. Generate an Excel workbook with Rates, Summary and Run_Log.
+9. Summary must show observation count, date range, min, max and average by currency.
+10. Configuration should be easy to change in the Python script.
+
+Portfolio note:
+This is a simulated project inspired by common API integration, data extraction,
+automation and spreadsheet reporting requests on freelance marketplaces.

@@ -1,0 +1,6 @@
+﻿RefundID,OrderID,RefundAmount,Reason
+REF-001,ORD-1004,19.99,Customer return
+REF-002,ORD-1017,34.99,Damaged item
+REF-003,ORD-1032,49.99,Customer return
+REF-004,ORD-1044,15.0,Partial refund
+REF-005,ORD-1053,32.5,Late delivery
