@@ -1,0 +1,48 @@
+{
+  "sku": [
+    "SKU",
+    "Item No",
+    "Item Number",
+    "Supplier SKU",
+    "ItemID",
+    "Part Number"
+  ],
+  "brand": [
+    "Brand",
+    "MFG Brand",
+    "Manufacturer",
+    "Mfr"
+  ],
+  "name": [
+    "Product Name",
+    "Item Name",
+    "Title",
+    "Name"
+  ],
+  "price": [
+    "Price",
+    "Unit $",
+    "Unit Price",
+    "Cost"
+  ],
+  "category": [
+    "Category",
+    "Cat",
+    "Product Category"
+  ],
+  "description": [
+    "Description",
+    "Desc",
+    "Product Description"
+  ],
+  "upc": [
+    "UPC",
+    "UPC Code",
+    "Barcode"
+  ],
+  "active": [
+    "Active",
+    "Enabled",
+    "Status"
+  ]
+}

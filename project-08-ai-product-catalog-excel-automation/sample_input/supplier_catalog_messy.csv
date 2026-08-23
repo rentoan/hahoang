@@ -1,0 +1,17 @@
+﻿Item No,MFG Brand,Item Name,Unit $,Cat,Desc,UPC Code,Active
+ACM-1001,Acme,18V Cordless Drill Kit,89.95,Power Tools,18 volt cordless drill kit with battery charger and carrying case,081234567890,Y
+ACM-1002,Acme,Heavy Duty Extension Cord 50 ft,34.50,Electrical,Outdoor rated 12 gauge extension cord 50 foot orange jacket,081234567906,Y
+BRX-2001,Borex,Safety Glasses Clear Anti Fog,12.99,Safety,Clear lens safety glasses with anti fog coating,081234567913,Y
+BRX-2002,Borex,Nitrile Work Gloves Large 100 Count,18.25,Safety,Disposable nitrile gloves large size box of 100,081234567920,Y
+CTY-3001,Crafty,Adjustable Wrench 10 inch,16.75,Hand Tools,10 inch adjustable wrench chrome finish,081234567937,Y
+CTY-3002,Crafty,Magnetic Torpedo Level 9 inch,14.40,Hand Tools,Compact magnetic torpedo level for plumbing and electrical work,081234567944,Y
+ELX-4001,Elix,LED Shop Light 4 ft 5000K,29.99,Lighting,Four foot LED shop light daylight 5000K linkable,081234567951,Y
+ELX-4002,Elix,Portable Work Light 2000 Lumen,42.00,Lighting,Portable 2000 lumen work light with folding stand,081234567968,Y
+FRM-5001,Formax,Industrial Storage Bin Blue,8.50,Storage,Stackable blue industrial storage bin medium size,081234567975,Y
+FRM-5002,Formax,5 Shelf Steel Utility Rack,119.00,Storage,Heavy duty five shelf steel utility rack black powder coat,081234567982,Y
+,Acme,Missing SKU Product,21.00,Electrical,Should fail required SKU,081234567999,Y
+BAD-PRICE,Borex,Cut Resistant Gloves,twenty,Safety,Invalid price example,081234568002,Y
+ACM-1001,Acme,Duplicate SKU Drill,91.00,Power Tools,Duplicate SKU example,081234568019,Y
+LONG-001,Crafty,Professional Commercial Industrial Extra Long Product Name Designed To Exceed The Allowed Product Title Limit For Validation,54.00,Hand Tools,This row demonstrates title length validation.,081234568026,Y
+UPC-001,Elix,Rechargeable Inspection Light,31.25,Lighting,Rechargeable inspection light,123ABC,Y
+CAT-001,Formax,Rolling Tool Cart,149.00,Unknown Group,Steel rolling tool cart with drawers,081234568040,Y

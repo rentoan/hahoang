@@ -1,0 +1,29 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Title: AI Product Catalog → Excel Template Automation
+
+Business need:
+A distributor receives product catalogs from multiple suppliers in CSV/XLSX format.
+Each supplier uses different column names and inconsistent product content.
+
+The client must convert these files into a strict multi-sheet Excel upload template.
+
+Requirements:
+1. Accept CSV, XLSX or XLSM supplier catalogs.
+2. Map inconsistent source columns to a standard schema.
+3. Normalize data types and validate product records.
+4. Separate invalid rows with clear error reasons.
+5. Standardize Product Title, Description and Key Features using AI.
+6. Support a no-API/mock mode for local testing.
+7. Populate the provided Excel template without changing sheet names,
+   workbook structure or required column order.
+8. Preserve unrelated template sheets and formulas.
+9. Provide a small web UI:
+   Upload Catalog -> Upload Template -> Process -> Download Results.
+10. Generate:
+    - completed template
+    - validation error workbook
+    - processing summary
+
+Portfolio note:
+All supplier/product data and the Excel template in this repository are synthetic.
