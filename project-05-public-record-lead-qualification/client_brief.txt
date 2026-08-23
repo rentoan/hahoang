@@ -1,0 +1,30 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Title: Public Record / Sheriff Deed Lead Qualification Pipeline
+
+Business need:
+A client has a CSV of potential foreclosure-surplus leads and needs to qualify them using
+the actual deed/document contents rather than relying only on third-party metadata.
+
+Qualification rule:
+QUALIFIED if:
+1. Final sale price - foreclosure debt >= $35,000
+AND
+2. Purchaser is a third party rather than the foreclosing lender / creditor.
+
+Required workflow:
+Lead CSV
+-> locate corresponding deed document
+-> extract sale price, debt and purchaser
+-> calculate surplus
+-> classify purchaser
+-> Qualified / Not Qualified
+-> export structured lead data
+
+Important:
+If extraction or purchaser classification is uncertain, the record must be sent to a manual-review queue.
+The system should not guess.
+
+Portfolio scope:
+This version uses synthetic text representations of recorded deeds.
+OCR, live county-site automation, authentication, CAPTCHA handling and large-scale crawling are intentionally out of scope.

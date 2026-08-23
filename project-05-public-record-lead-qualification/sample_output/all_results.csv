@@ -1,0 +1,31 @@
+﻿LeadID,County,PreviousOwner,PropertyAddress,FinalSalePrice,DebtAmount,CalculatedDifference,Purchaser,PurchaserType,ThirdPartyBuyer,Qualified,InstrumentNumber,DocumentFile,ReviewStatus
+L0001,Camden,Richard Finley,"101 Example Street, Camden, NJ",271919.75,218182.48,53737.27,Northfield Realty LLC.,Third Party,Yes,Yes,INST-CAM-2021-10001,deed_001.txt,Automated
+L0002,Essex,Maria Santos,"102 Example Street, Essex, NJ",243206.17,182070.54,61135.63,Sarah Miller,Third Party,Yes,Yes,INST-ESS-2022-10002,deed_002.txt,Automated
+L0003,Bergen,James Wilson,"103 Example Street, Bergen, NJ",218240.26,151087.18,67153.08,Liberty Property Group LLC.,Third Party,Yes,Yes,INST-BER-2023-10003,deed_003.txt,Automated
+L0004,Camden,Linda Carter,"104 Example Street, Camden, NJ",193586.66,177864.38,15722.28,DJM Properties LLC.,Third Party,Yes,No,INST-CAM-2024-10004,deed_004.txt,Automated
+L0005,Essex,Kevin Brooks,"105 Example Street, Essex, NJ",133837.51,76153.87,57683.64,PNC Bank NA.,Lender/Creditor,No,No,INST-ESS-2025-10005,deed_005.txt,Automated
+L0006,Bergen,Angela Reed,"106 Example Street, Bergen, NJ",254205.71,155552.25,98653.46,DJM Properties LLC,Third Party,Yes,Yes,INST-BER-2026-10006,deed_006.txt,Automated
+L0007,Camden,Thomas Hill,"107 Example Street, Camden, NJ",179897.42,104759.48,75137.94,Liberty Property Group LLC.,Third Party,Yes,Yes,INST-CAM-2027-10007,deed_007.txt,Automated
+L0008,Essex,Patricia Moore,"108 Example Street, Essex, NJ",114127.73,103996.29,10131.44,Michael Torres.,Third Party,Yes,No,INST-ESS-2028-10008,deed_008.txt,Automated
+L0009,Bergen,Robert Kelly,"109 Example Street, Bergen, NJ",160126.08,119544.01,40582.07,Liberty Property Group LLC.,Third Party,Yes,Yes,INST-BER-2029-10009,deed_009.txt,Automated
+L0010,Camden,Susan Price,"110 Example Street, Camden, NJ",197765.83,118716.83,79049.0,Wells Fargo Bank NA,Lender/Creditor,No,No,INST-CAM-2030-10010,deed_010.txt,Automated
+L0011,Essex,Daniel Young,"111 Example Street, Essex, NJ",147763.53,96276.75,51486.78,Northfield Realty LLC.,Third Party,Yes,Yes,INST-ESS-2031-10011,deed_011.txt,Automated
+L0012,Bergen,Nancy Bell,"112 Example Street, Bergen, NJ",104541.92,94307.94,10233.98,Michael Torres.,Third Party,Yes,No,INST-BER-2032-10012,deed_012.txt,Automated
+L0013,Camden,George King,"113 Example Street, Camden, NJ",274864.48,193854.37,81010.11,Garden State Investments LLC.,Third Party,Yes,Yes,INST-CAM-2033-10013,deed_013.txt,Automated
+L0014,Essex,Helen Scott,"114 Example Street, Essex, NJ",295016.42,192658.47,102357.95,Northfield Realty LLC,Third Party,Yes,Yes,INST-ESS-2034-10014,deed_014.txt,Automated
+L0015,Bergen,Edward Green,"115 Example Street, Bergen, NJ",275842.41,192406.12,83436.29,JPMorgan Chase Bank NA.,Lender/Creditor,No,No,INST-BER-2035-10015,deed_015.txt,Automated
+L0016,Camden,Carol Adams,"116 Example Street, Camden, NJ",117574.55,110476.83,7097.72,Liberty Property Group LLC.,Third Party,Yes,No,INST-CAM-2036-10016,deed_016.txt,Automated
+L0017,Essex,Brian Nelson,"117 Example Street, Essex, NJ",189316.51,144516.4,44800.11,Northfield Realty LLC.,Third Party,Yes,Yes,INST-ESS-2037-10017,deed_017.txt,Automated
+L0018,Bergen,Donna Baker,"118 Example Street, Bergen, NJ",182979.88,123295.94,59683.94,Liberty Property Group LLC,Third Party,Yes,Yes,INST-BER-2038-10018,deed_018.txt,Automated
+L0019,Camden,Steven Turner,"119 Example Street, Camden, NJ",214775.07,133461.99,81313.08,Northfield Realty LLC.,Third Party,Yes,Yes,INST-CAM-2039-10019,deed_019.txt,Automated
+L0020,Essex,Laura Collins,"120 Example Street, Essex, NJ",241841.59,216866.24,24975.35,Sarah Miller.,Third Party,Yes,No,INST-ESS-2040-10020,deed_020.txt,Automated
+L0021,Bergen,Michael Reed,"121 Example Street, Bergen, NJ",183173.27,118443.33,64729.94,DJM Properties LLC.,Third Party,Yes,Yes,INST-BER-2041-10021,deed_021.txt,Automated
+L0022,Camden,Karen Evans,"122 Example Street, Camden, NJ",209997.98,123252.63,86745.35,Hudson Investors LLC,Third Party,Yes,Yes,INST-CAM-2042-10022,deed_022.txt,Automated
+L0023,Essex,Paul Murphy,"123 Example Street, Essex, NJ",200722.31,140320.84,60401.47,Liberty Property Group LLC.,Third Party,Yes,Yes,INST-ESS-2043-10023,deed_023.txt,Automated
+L0024,Bergen,Sandra Cooper,"124 Example Street, Bergen, NJ",177133.38,166918.21,10215.17,Blue Harbor Holdings LLC.,Third Party,Yes,No,INST-BER-2044-10024,deed_024.txt,Automated
+L0025,Camden,Mark Bailey,"125 Example Street, Camden, NJ",233567.6,151126.93,82440.67,PNC Bank NA.,Lender/Creditor,No,No,INST-CAM-2045-10025,deed_025.txt,Automated
+L0026,Essex,Janet Rivera,"126 Example Street, Essex, NJ",222114.6,136816.63,85297.97,DJM Properties LLC,Third Party,Yes,Yes,INST-ESS-2046-10026,deed_026.txt,Automated
+L0027,Bergen,Charles Howard,"127 Example Street, Bergen, NJ",235410.33,153752.76,81657.57,Northfield Realty LLC.,Third Party,Yes,Yes,INST-BER-2047-10027,deed_027.txt,Automated
+L0028,Camden,Amy Ward,"128 Example Street, Camden, NJ",163076.4,142013.92,21062.48,Liberty Property Group LLC.,Third Party,Yes,No,INST-CAM-2048-10028,deed_028.txt,Automated
+L0029,Essex,Joseph Cox,"129 Example Street, Essex, NJ",193131.08,133400.71,59730.37,Blue Harbor Holdings LLC.,Third Party,Yes,Yes,INST-ESS-2049-10029,deed_029.txt,Automated
+L0030,Bergen,Rebecca Gray,"130 Example Street, Bergen, NJ",153604.35,74215.89,79388.46,Freedom Mortgage Corporation,Lender/Creditor,No,No,INST-BER-2050-10030,deed_030.txt,Automated

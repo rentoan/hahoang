@@ -1,0 +1,23 @@
+SIMULATED CLIENT REQUIREMENT
+
+I have a rule-based XAUUSD M30 breakout strategy and need it backtested in Python.
+
+Rules:
+- Long only.
+- Signal: candle closes above the highest High of the previous 20 bars.
+- Entry: next bar Open.
+- Stop loss: lowest Low of the previous 10 bars including the signal bar.
+- Take profit: 2R.
+- Risk: 1% of current equity per trade.
+- Only one open trade at a time.
+
+Deliverables:
+- Reusable Python backtest script.
+- Trade-by-trade CSV.
+- Performance report with win rate, profit factor, expectancy / average R,
+  net profit, final equity and maximum drawdown.
+- Equity curve.
+- Clear assumptions and limitations.
+
+Portfolio note:
+The supplied market data is synthetic and exists only to demonstrate the engineering workflow.
