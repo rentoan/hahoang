@@ -1,0 +1,3 @@
+# Paper demo uses Python standard library only.
+# Optional live MT5 integration:
+# MetaTrader5

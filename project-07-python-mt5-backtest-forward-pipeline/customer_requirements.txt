@@ -1,0 +1,24 @@
+PORTFOLIO PROJECT - SIMULATED CLIENT REQUIREMENT
+
+Title: Python MT5 Trading Bot – Backtest to Forward-Test Pipeline
+
+Business need:
+The client has a rule-based trading strategy and wants a maintainable Python implementation
+that can be researched on historical data, tested in paper/forward mode, and connected to MT5.
+
+Required components:
+1. Deterministic strategy module.
+2. Risk-based position sizing.
+3. One-position-at-a-time execution logic.
+4. Historical / paper simulation.
+5. Trade logging.
+6. Error-safe MT5 integration layer.
+7. Telegram-ready notifications.
+8. Clear operational checklist before live deployment.
+
+Portfolio boundaries:
+- No broker credentials are included.
+- Live orders are disabled by default.
+- The repository runs in paper mode.
+- The included MT5 adapter demonstrates integration structure but must be tested
+  against the client's broker symbol, filling mode and volume rules before live use.
