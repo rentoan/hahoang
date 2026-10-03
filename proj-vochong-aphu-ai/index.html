@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#f5efe3" />
+  <title>Trò chuyện cùng nhân vật | Vợ chồng A Phủ</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main class="app">
+    <section id="home" class="screen active">
+      <div class="hero">
+        <div class="eyebrow">NGỮ VĂN • HỌC QUA ĐỐI THOẠI</div>
+        <h1>Bước vào <em>Vợ chồng A Phủ</em></h1>
+        <p>Chọn một nhân vật. Hãy hỏi, phỏng vấn hoặc tranh biện để hiểu tác phẩm từ bên trong câu chuyện.</p>
+      </div>
+      <div class="characters">
+        <button class="character-card" data-character="mi">
+          <span class="portrait">🌿</span>
+          <span><strong>Mị</strong><small>“Em muốn hỏi tôi điều gì?”</small></span>
+        </button>
+        <button class="character-card" data-character="aphu">
+          <span class="portrait">⛰️</span>
+          <span><strong>A Phủ</strong><small>“Cứ hỏi. Tôi sẽ kể điều tôi biết.”</small></span>
+        </button>
+      </div>
+      <p class="note">AI có thể sai. Khi học tập, hãy đối chiếu với văn bản và hướng dẫn của giáo viên.</p>
+    </section>
+
+    <section id="chat" class="screen">
+      <header class="chat-header">
+        <button id="backBtn" class="icon-btn" aria-label="Quay lại">←</button>
+        <div>
+          <strong id="characterName">Mị</strong>
+          <small>Vợ chồng A Phủ • Tô Hoài</small>
+        </div>
+        <button id="resetBtn" class="icon-btn" title="Cuộc trò chuyện mới">↻</button>
+      </header>
+
+      <nav class="modes" aria-label="Chế độ trò chuyện">
+        <button class="mode active" data-mode="chat">💬 Trò chuyện</button>
+        <button class="mode" data-mode="interview">🎙 Phỏng vấn</button>
+        <button class="mode" data-mode="debate">⚖️ Tranh biện</button>
+      </nav>
+
+      <div id="messages" class="messages" aria-live="polite"></div>
+      <div id="suggestions" class="suggestions"></div>
+
+      <form id="chatForm" class="composer">
+        <textarea id="messageInput" rows="1" maxlength="1200" placeholder="Nhập câu hỏi của em..." required></textarea>
+        <button id="sendBtn" type="submit">Gửi</button>
+      </form>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
